@@ -1,0 +1,22 @@
+The Second Hand
+Sometime people do not have enough money to buy new things or some people prefer second hand things because they are cheap.
+Although there are many apps for this purpose but I also wanted to create one with some extra features that I think they 
+are not there in the apps.
+
+Advantages of used products:
+
+Used products are less expensive.
+Used products don't require new resources.
+Used products don't generate pollution.
+Used products don't require energy to create.
+Used products don't have packaging.
+Buying used supports good causes and the local economy.
+
+What does my app does?
+
+It has a parallel system for customers running side by side. 
+People who wish to sell any goods can upload their advertisements just like one is expected to do in a classifieds portal.
+ People who wish to buy goods may browse through the listing
+ If the user likes the product he can call the provider or chat with him with a chat feature in my app.
+
+---By Shabd Raizada
