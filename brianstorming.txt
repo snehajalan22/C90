@@ -4,6 +4,6 @@ My app will help dial all services urgently needed especially in this pandemic. 
 
 
 What does my app does?
-My app helps by calling the services as soon as possible. This app is only for Hyderabad as of now but in further updates it will be for people all over India
+My app helps by calling the services as soon as possible. This app is only for a few cities as of now but in further updates it will be for people all over India
 
 ---By Sneha Jalan
